@@ -11,8 +11,6 @@ We develop techniques and tools for building reliable, efficient, and secure sys
 * [Soudabeh Mohammadhashemi](https://github.com/soudabemhashemi) (MSc Student)
 * [Tarek Elsayed](https://github.com/tareknaser) (MSc Student)
 * [Mohamed Hefny](https://github.com/mohhef) (MSc Student)
-* [Vincent Huang](https://github.com/Viknet427) (Undergraduate Student)
-* [Sanika Goyal](https://github.com/sgoyal04) (Undergraduate Student)
 
 ## Alumni
 
